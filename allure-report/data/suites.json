@@ -1,0 +1,145 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "show header",
+    "children" : [ {
+      "name" : "Checking the Main Video play",
+      "uid" : "10fb6895a5b06eb0",
+      "parentUid" : "865d77933070203dcb3d337e7b14fac4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653266114025,
+        "stop" : 1653266122151,
+        "duration" : 8126
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.67" ]
+    }, {
+      "name" : "Checking the Main Video play",
+      "uid" : "db84e0ec1a5a2dfc",
+      "parentUid" : "865d77933070203dcb3d337e7b14fac4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653266117644,
+        "stop" : 1653266124519,
+        "duration" : 6875
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "firefox-100.0.2" ]
+    }, {
+      "name" : "Checking the Main Video Pause and Play Again",
+      "uid" : "8e1688765201a09f",
+      "parentUid" : "865d77933070203dcb3d337e7b14fac4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653266122156,
+        "stop" : 1653266128928,
+        "duration" : 6772
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.67" ]
+    }, {
+      "name" : "Checking the Main Video Pause and Play Again",
+      "uid" : "d0253b378df91d78",
+      "parentUid" : "865d77933070203dcb3d337e7b14fac4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653266124526,
+        "stop" : 1653266131212,
+        "duration" : 6686
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "firefox-100.0.2" ]
+    }, {
+      "name" : "Checking Navbar Show Button",
+      "uid" : "3895dab0f4950934",
+      "parentUid" : "865d77933070203dcb3d337e7b14fac4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653266128930,
+        "stop" : 1653266129739,
+        "duration" : 809
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.67" ]
+    }, {
+      "name" : "Checking Navbar Close Button",
+      "uid" : "8e550442a579c883",
+      "parentUid" : "865d77933070203dcb3d337e7b14fac4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653266129739,
+        "stop" : 1653266131231,
+        "duration" : 1492
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.67" ]
+    }, {
+      "name" : "Checking Navbar Show Button",
+      "uid" : "4516ce7d71162dc2",
+      "parentUid" : "865d77933070203dcb3d337e7b14fac4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653266131214,
+        "stop" : 1653266132284,
+        "duration" : 1070
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "firefox-100.0.2" ]
+    }, {
+      "name" : "Checking Navbar Close Button",
+      "uid" : "a28399d860538c37",
+      "parentUid" : "865d77933070203dcb3d337e7b14fac4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653266132284,
+        "stop" : 1653266133951,
+        "duration" : 1667
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "firefox-100.0.2" ]
+    } ],
+    "uid" : "865d77933070203dcb3d337e7b14fac4"
+  } ],
+  "name" : "suites"
+}

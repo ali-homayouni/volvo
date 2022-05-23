@@ -1,0 +1,156 @@
+{
+  "uid" : "a28399d860538c37",
+  "name" : "Checking Navbar Close Button",
+  "fullName" : "show header.Checking Navbar Close Button",
+  "historyId" : "ece85e5ce8bb71ab2fa9fd341619ee81",
+  "time" : {
+    "start" : 1653266132284,
+    "stop" : 1653266133951,
+    "duration" : 1667
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1653266132285,
+        "stop" : 1653266132299,
+        "duration" : 14
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "3f6e97d2bce22853",
+        "name" : "Request",
+        "source" : "3f6e97d2bce22853.json",
+        "type" : "application/json",
+        "size" : 88
+      }, {
+        "uid" : "6793e00f0d411540",
+        "name" : "Response",
+        "source" : "6793e00f0d411540.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "POST /session/:sessionId/element/f5c22174-a16b-48f2-ab24-3fab1a0a4552/click",
+      "time" : {
+        "start" : 1653266132302,
+        "stop" : 1653266132911,
+        "duration" : 609
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1653266132911,
+        "stop" : 1653266132924,
+        "duration" : 13
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "1a2ebdda30d6c0f5",
+        "name" : "Request",
+        "source" : "1a2ebdda30d6c0f5.json",
+        "type" : "application/json",
+        "size" : 74
+      }, {
+        "uid" : "3848ca5cb6ed44d9",
+        "name" : "Response",
+        "source" : "3848ca5cb6ed44d9.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "GET /session/:sessionId/element/f0a92c85-01aa-475c-8ee8-342230bd7bad/displayed",
+      "time" : {
+        "start" : 1653266132926,
+        "stop" : 1653266132938,
+        "duration" : 12
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 4
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "1-0"
+  }, {
+    "name" : "suite",
+    "value" : "show header"
+  }, {
+    "name" : "testClass",
+    "value" : "show header"
+  }, {
+    "name" : "testMethod",
+    "value" : "Checking Navbar Close Button"
+  }, {
+    "name" : "package",
+    "value" : "show header"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-100.0.2"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a28399d860538c37.json",
+  "parameterValues" : [ "firefox-100.0.2" ]
+}

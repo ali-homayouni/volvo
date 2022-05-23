@@ -1,0 +1,81 @@
+[ {
+  "uid" : "db84e0ec1a5a2dfc",
+  "name" : "Checking the Main Video play",
+  "time" : {
+    "start" : 1653266117644,
+    "stop" : 1653266124519,
+    "duration" : 6875
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8e550442a579c883",
+  "name" : "Checking Navbar Close Button",
+  "time" : {
+    "start" : 1653266129739,
+    "stop" : 1653266131231,
+    "duration" : 1492
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "10fb6895a5b06eb0",
+  "name" : "Checking the Main Video play",
+  "time" : {
+    "start" : 1653266114025,
+    "stop" : 1653266122151,
+    "duration" : 8126
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a28399d860538c37",
+  "name" : "Checking Navbar Close Button",
+  "time" : {
+    "start" : 1653266132284,
+    "stop" : 1653266133951,
+    "duration" : 1667
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d0253b378df91d78",
+  "name" : "Checking the Main Video Pause and Play Again",
+  "time" : {
+    "start" : 1653266124526,
+    "stop" : 1653266131212,
+    "duration" : 6686
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8e1688765201a09f",
+  "name" : "Checking the Main Video Pause and Play Again",
+  "time" : {
+    "start" : 1653266122156,
+    "stop" : 1653266128928,
+    "duration" : 6772
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3895dab0f4950934",
+  "name" : "Checking Navbar Show Button",
+  "time" : {
+    "start" : 1653266128930,
+    "stop" : 1653266129739,
+    "duration" : 809
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4516ce7d71162dc2",
+  "name" : "Checking Navbar Show Button",
+  "time" : {
+    "start" : 1653266131214,
+    "stop" : 1653266132284,
+    "duration" : 1070
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
